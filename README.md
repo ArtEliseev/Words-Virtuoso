@@ -1,5 +1,5 @@
 # Words-Virtuoso
-My eleventh project at JetBrains Academy
+My eleventh project in JetBrains Academy
 
 Description
 
