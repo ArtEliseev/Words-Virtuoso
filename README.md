@@ -2,6 +2,7 @@
 My eleventh project at JetBrains Academy
 
 Description
+
 In this stage, let's add some colors to the clue strings.
 
 Change the structure of the clue string now, they should be in upper case, with different background color for each letter. These colors are:
